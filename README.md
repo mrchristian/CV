@@ -4,7 +4,7 @@ Simon Worthington
 
 ![](media/058b2d1e873a2ec6b57d7231e9b3213b.jpeg)
 
-DOB & place 15. Nov. 1966, Manchester
+DOB: 15 November 1966
 
 Nationality: UK British (*Kernow*)
 
