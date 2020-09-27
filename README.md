@@ -1,8 +1,8 @@
-# Curriculum Vitae
+# Curriculum Vitae – Simon Worthington
+
+![portrait Simon Worthington](media/04cfed01552feeb7e0d04c0022dad7e2.jpeg)
 
 Simon Worthington
-
-![](media/058b2d1e873a2ec6b57d7231e9b3213b.jpeg)
 
 DOB: 15 November 1966
 
