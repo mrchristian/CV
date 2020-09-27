@@ -1,6 +1,6 @@
 # Curriculum Vitae – Simon Worthington
 
-![A person wearing glasses and smiling at the camera Description automatically generated](media/1e0349213c48b37e539b693ace45dff6.jpeg)
+![portrait Simon Worthington](media/04cfed01552feeb7e0d04c0022dad7e2.jpeg)
 
 Simon Worthington
 
@@ -121,9 +121,9 @@ publishing**.**
 -   **Falmouth College of Art and Design, Cornwall UK** – Arts Foundation
     1988-89
 
-## Skills
+# Skills
 
-# Software development: PHP/MySQL for CMSs; CMS admin, development, and maintenance — OJS, Wordpress, and Drupal; Full-stack web developer; Web design; Linux command line; Linux system admin and network management; XML/XPROC; XSLT; JATS; HTML5; SASS/CSS/Paginated CSS; R; Git/GitHub/GitLab; Jekyll/Hugo/GitHub Pages; Ruby; Javascript; APIs; CRM use; Raspberry Pi and Microcomputer OSs; and UX/UI processes.
+## Software development: PHP/MySQL for CMSs; CMS admin, development, and maintenance — OJS, Wordpress, and Drupal; Full-stack web developer; Web design; Linux command line; Linux system admin and network management; XML/XPROC; XSLT; JATS; HTML5; SASS/CSS/Paginated CSS; R; Git/GitHub/GitLab; Jekyll/Hugo/GitHub Pages; Ruby; Javascript; APIs; CRM use; Raspberry Pi and Microcomputer OSs; and UX/UI processes.
 
 ## Publishing: Editor; Copy editor and proofer; Journal and book publication management; Production manager; pricing and sales; Multi-format publishing; Metadata management; Contract writing; Art director; Distribution; and SEO and analytics.
 
