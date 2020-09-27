@@ -1,33 +1,35 @@
-# Curriculum Vitae Name Simon Worthington
+# Curriculum Vitae
 
-![](media/058b2d1e873a2ec6b57d7231e9b3213b.jpg)
+Simon Worthington
+
+![](media/058b2d1e873a2ec6b57d7231e9b3213b.jpeg)
 
 DOB & place 15. Nov. 1966, Manchester
 
-Nationality UK British
+Nationality: UK British (*Kernow*)
 
-E-Mail: <simon.worthington@tib.eu>
+E-Mail: <simon@consortium.io>
 
 GitHub: <https://github.com/mrchristian>
 
 Twitter: [\@mrchristian99](https://twitter.com/mrchristian99)
 
-Languages English (native), German (A2)
+Languages: English (native), German (A2)
 
 **Specialization: Publishing software architect**
 
 ## Profile
 
 Simon’s work has been dedicated to lowering barriers to publishing and reading
-of scholarly works through developing free and open source software to
-disintermediate current publishers workflows by introducing efficiency,
-automation, and interoperability.
+of scholarly works through developing open-source software to disintermediate
+publisher’s workflows by introducing efficiency, automation, and
+interoperability.
 
 Initially in 2005 the focus of the software investigation was single source to
 multi-format typesetting and more recently: microservices, content real-time
 validation with Continuous Integration (CI), Infrastructure as code (IasC), and
 increasing interoperability with the implementation of frameworks such as the
-JATS standard — Manuscript Exchange Common Approach (MECA). See:
+BITS, and the JATS standard — Manuscript Exchange Common Approach (MECA). See:
 <https://www.niso.org/standards-committees/meca>.
 
 **Skill sets:** Software product owner → Full-stack web developer → UX/UI design
@@ -44,7 +46,8 @@ platform for Open Science for the Leibniz Research Alliance, Open Science. Lead
 on ADA software development research project for publishing microservices
 software development.
 
-**2017: Akademienunion – Berlin-Brandenburg Academy of Sciences and Humanities**  
+**2017: Akademienunion – Berlin-Brandenburg Academy of Sciences and Humanities**
+
 Report co-author for project *AGATE* – scoping technical API networking to
 connect archives of all of Europe’s 600+ academies of arts & science.
 
@@ -151,7 +154,7 @@ publishing**.**
 
 -   **Mute Magazine – Editorial collective member, 2012-ongoing.**
 
-# Publications & software (selection) 
+# Publications & software (selection)
 
 See all publications, code, and projects:
 <https://www.zotero.org/mrchristian/cv>
@@ -199,7 +202,7 @@ Publishing Consortium. Research plan*, August 2013.
 Worthington, Simon, and Jakob Schumacher. ADA Sprint Module MVP:
 Akademie-Oeffentliches-Gesundheitswesen/Beta-Buch. HTML. 2019. Reprint, Akademie
 für Öffentliches Gesundheitswesen in Düsseldorf, 2019.
-https://github.com/akademie-oeffentliches-gesundheitswesen/Beta-Buch.
+<https://github.com/akademie-oeffentliches-gesundheitswesen/Beta-Buch>.
 
 **ADA** – Publishing microservices for scholarly publishing. Including IasC and
 Kafka interface. Role: project leader. Hybrid Publishing Consortium – TIB,
@@ -249,4 +252,4 @@ infrastructure hosting and multiple website rebuilds in a variety of platforms.
 
 \--
 
-End, v04 SW 26 Jan 2020
+End, SW 27 Sept 2020
