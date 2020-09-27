@@ -1,6 +1,6 @@
 # Curriculum Vitae – Simon Worthington
 
-![A person wearing glasses and smiling at the camera Description automatically generated](media/b1eb6bd09006058cf76b12d49fbce9b5.jpeg)
+![A person wearing glasses and smiling at the camera Description automatically generated](media/1e0349213c48b37e539b693ace45dff6.jpeg)
 
 Simon Worthington
 
@@ -12,7 +12,7 @@ E-Mail: <simon@consortium.io>
 
 GitHub: <https://github.com/mrchristian>
 
-Twitter: [\@mrchristian99](https://twitter.com/mrchristian99)
+Twitter: [@mrchristian99](https://twitter.com/mrchristian99)
 
 Languages: English (native), German (A2)
 
@@ -252,4 +252,4 @@ infrastructure hosting and multiple website rebuilds in a variety of platforms.
 
 \--
 
-Updated 27 Sept 2020 - SW
+End, SW 27 Sept 2020
